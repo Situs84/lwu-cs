@@ -3,6 +3,6 @@
 Resources for [Learn With Us Inc](http://learn-with-us.com) summer coding class.
 
 This repository is split into the following sections:
-* [Scratch](Scratch/readme.md)
+* [Scratch](Scratch/README.md)
 * Javascript
 * Python
