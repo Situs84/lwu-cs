@@ -14,7 +14,7 @@ Atom should look something like this:
 
 ## 2) Setting up your first project
 We've done a few small things ahead of time to make it easier for you to get started.
-1. Download the [Template](resources/LWU-CS%20Template.zip)
+1. Download the [Template](https://github.com/Situs84/lwu-cs/raw/master/JavaScript/resources/LWU-CS%20Template.zip)
 2. Unzip the template and rename it to something else
 3. Right click "run.html" and open it with chrome or edge
     * All you should see is "Running Javascript..."
