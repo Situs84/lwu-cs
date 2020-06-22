@@ -10,7 +10,7 @@ _An __IDE__ is an application made for you to write code. We'll be using Atom._
     * Once installation is complete, Atom will open
 
 Atom should look something like this:
-![Atom IDE](resources/jsconfig-1.png)
+![Atom IDE](resources/jsconfig-1.PNG)
 
 ## 2) Setting up your first project
 We've done a few small things ahead of time to make it easier for you to get started.
@@ -22,6 +22,6 @@ We've done a few small things ahead of time to make it easier for you to get sta
 5. Click _File > Open File_ in Atom. Navigate to your unzipped folder and open the "main.js" file.
 
 Atom should look something like this:
-![Atom IDE](resources/jsconfig-2.png)
+![Atom IDE](resources/jsconfig-2.PNG)
 
 __Congrats! You're done with setup. Sit back, relax, and let your instructor know you've finished.__
