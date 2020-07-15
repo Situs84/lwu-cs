@@ -3,4 +3,5 @@
 #### [&larr; Back](../README.md)
 
 ### Resources:
-* [JavaScript Configuration](jsconfig.md)
+* [Module 1: JavaScript Configuration](mod1-jsconfig.md)
+* [Module 2: 'Console.log()'](mod2-consolelog.md)

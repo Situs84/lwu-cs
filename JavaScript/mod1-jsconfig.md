@@ -1,4 +1,4 @@
-# __JavaScript Configuration__
+# __Module 1: JavaScript Configuration__
 #### [&larr; Back](README.md)
 
 ## 1) Downloading the Atom IDE
